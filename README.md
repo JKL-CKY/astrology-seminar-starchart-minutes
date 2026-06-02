@@ -1,0 +1,2 @@
+# astrology-seminar-starchart-minutes
+占星研讨会星盘纪要全栈系统——前端展示动态星图与行星相位，后端处理占星师讨论，Whisper转写宫位相位解读，pyannote区分不同流派占星师，OpenAI生成集体运势分析与主题探讨摘要，轻松有趣的Markdown邮件发给会员
